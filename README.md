@@ -15,3 +15,5 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 
 ### Link to kernel:
 https://www.kaggle.com/sidjain1611/netflix-detailed-analysis
+
+#### Please upvote/star if you like.
